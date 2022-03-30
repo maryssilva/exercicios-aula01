@@ -1,0 +1,31 @@
+.divA{
+    background-color: #8ee69c;
+    width: 300px;
+    height: 300px;
+}
+
+.divB{
+    background-color: #ff9900;
+    height: 150px;
+    width: 150px;
+}
+
+p{
+    color: grey;
+    background-color: aqua;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: lighter;
+}
+
+.divD{
+    width: 40%;
+    height: 40vh;
+    background-color: rgb(0, 255, 149);
+}
+
+.divE{
+    width: 65vw;
+    height: 40%;
+    background-color: rgb(255, 0, 170);
+}
